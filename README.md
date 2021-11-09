@@ -14,7 +14,7 @@
 - build.gradle: please ensure that your build.gradle file has all the necessary dependencies that are required for the database.
 - ADDHERE (Discord bot API): used for running the bot on a Discord server.
 
-Before running the code, add the bot token "ODA0NzY4MTM3MzMyMzkxOTQ4.YBRIuw.QYiFCgQJdnngsWP2J7Ne6Jll1PA"  to the "Program Requirements" text box in the "Edit Configurations" for the "Main" program file. **<u>*CRITICAL*</u>**
+Before running the code, add the bot token ""  to the "Program Requirements" text box in the "Edit Configurations" for the "Main" program file. **<u>*CRITICAL*</u>**
 
 
 
