@@ -1,8 +1,12 @@
-import javax.security.auth.login.LoginException;
-
 public class Main {
-    public static void main(String[] args) throws LoginException // main function for the command detection
+    public static void main(String[] args) // main function for the command detection
     {
-        System.out.println("Hello world!");
+        ListFunctions testObj = new ListFunctions();
+        
+        testObj.add("TestTable");
+
+        testObj.view("TestTable");
+
+        testObj.delete("TestTable");
     }
 }
