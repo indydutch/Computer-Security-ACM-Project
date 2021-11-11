@@ -14,6 +14,7 @@
  * Just run the program per usual. No user output is expect
  */
 
+// Class for table deletion
 public class DeleteTable {
     public static void main(String[] args) // main function for the command detection
     {

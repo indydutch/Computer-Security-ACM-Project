@@ -17,6 +17,7 @@
 
 import java.util.Scanner;
 
+// Class for main functions of the system
 public class Main {
     public static void main(String[] args) { // main function for the command detection
         TableCreation testObj = new TableCreation(); // Creates a new TableCreation object

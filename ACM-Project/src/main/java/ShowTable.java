@@ -16,6 +16,7 @@
  * Note: the column names will not be listed.
  */
 
+// Class for default table creation and viewing
 public class ShowTable {
     public static void main(String[] args) {
         TableCreation deleteTable = new TableCreation();
