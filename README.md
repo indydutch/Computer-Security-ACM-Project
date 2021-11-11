@@ -20,8 +20,6 @@
 - build.gradle: please ensure that your build.gradle file has all the necessary dependencies that are required for the database. Running on Gradle 7.1.
 - SQL Database Type: SQLite ver. 3, SQLite JDBC ver. 3.36.0.3.
 
-Before running the code, add the bot token ""  to the "Program Requirements" text box in the "Edit Configurations" for the "Main" program file. **<u>*CRITICAL*</u>**
-
 
 
 #### **Team Contributions:**
