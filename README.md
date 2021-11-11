@@ -24,8 +24,7 @@
 
 #### **Team Contributions:**
 
-Note: both members put more than an ample amount of time and effort into the project, for formalities sake, below are the exact contributions -
-
+Note: both members put more than an ample amount of time and effort into the project, for formalities sake, below are the exact contributions.
 - Matthew Dutchess: TableCreation.java (all), DeleteTable.java (all), ShowTable.java (all), Main.java (functionality). 
 
 - Calvin Hariprasad: Main.java (general structure, TUI/GUI).
