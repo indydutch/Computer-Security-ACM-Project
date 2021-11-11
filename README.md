@@ -24,7 +24,7 @@
 
 #### **Team Contributions:**
 
-Note: all team members worked and contributed as equally as possible with coding and researching for what we needed for this project. For formality's sake, here is a list of team members and what we are each contributing:
+Note: both members put more than an ample amount of time and effort into the project, for formalities sake, below are the exact contributions -
 
 - Matthew Dutchess: TableCreation.java (all), DeleteTable.java (all), ShowTable.java (all), Main.java (functionality). 
 
