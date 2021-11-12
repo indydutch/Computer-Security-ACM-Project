@@ -19,10 +19,6 @@
 // Class for default table creation and viewing
 public class ShowTable {
     public static void main(String[] args) {
-        TableCreation deleteTable = new TableCreation();
-
-        deleteTable.deleteTable();
-
         TableCreation tableCreation = new TableCreation();
 
         tableCreation.printTable();
